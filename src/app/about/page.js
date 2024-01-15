@@ -30,12 +30,12 @@ export default function About() {
     <div className='relative'>
         <Hero description='note: find a more engaging about page title'>
           Get to <br></br> know me
-            <img
+            <Image
                 src='../../../icons/plus.svg'
                 className='absolute -left-10 -top-10 md:-left-20 md:top-0'
                 alt='Plus icon'
               />
-              <img
+              <Image
                 src='../../../images/about/squiggle.png'
                 className='absolute left-0 -bottom-10 md:-bottom-16 lg:-bottom-24 xl:-bottom-32 w-2/3'
                 alt='Decorative underline'
@@ -189,7 +189,7 @@ export default function About() {
           </Swiper>
           </div>
           <div className='flex flex-row pt-10 justify-center place-items-center'>
-            <img
+            <Image
                 src='../../../icons/up-arrow.svg'
                 className='w-1/5'
                 alt='Profile image'

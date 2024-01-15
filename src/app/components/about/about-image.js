@@ -4,11 +4,11 @@ import React from 'react'
 export default function AboutImage({src, caption}){
     return(
         <div>
-            <img 
+            <Image 
                 className='h-full object-cover'
                 src={src}
             >
-            </img> 
+            </Image> 
             <figcaption className='mt-2'>{caption}</figcaption>
         </div>
     )
