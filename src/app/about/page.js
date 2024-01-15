@@ -127,7 +127,7 @@ export default function About() {
           </div>
 
           <div className='flex flex-col gap-5 py-5 md:py-16 mx-10 md:mx-auto max-w-xl pt-20 lg:pt-10 xl:pt-36'>
-            <p className='text-cream'>I currently work at Flux Full Cicle, a leading luxury travel digital industry that creates a digital presence for brands. As the UX/UI designer and developer, my duty is to create optimal user experiences for new website builds and features. I do research, testing, data analysis, front end dev and everything UX.</p>
+            <p className='text-cream'>I am currently part of the awesome team at Flux Full Circle, a top-tier player in the luxury travel digital industry. As the front end UX/UI developer, my mission is all about creating seamless user experiences for new website builds and cool features. I dive into research, run tests, crunch numbers for data analysis, and bring it all to life through hands-on front-end development and collaborative efforts with our marketing team. Yes, I am your go-to person for everything UX!</p>
           </div>
 
           <div className='lg:mt-10 px-5 md:px-16'>
