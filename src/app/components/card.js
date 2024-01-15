@@ -9,12 +9,8 @@ export default function Card({href, url}){
             <Link href={href}>
                 <img 
                     src={url}
-                    className='h-auto object-cover rounded-2xl'>
+                    className='h-full object-cover rounded-2xl'>
                 </img>
-                {/* <p className='hidden md:inline-block italic text-[16px] pt-6'>{description}</p> */}
-                {/* <ul className='flex flex-row gap-10 italic text-[16px] pt-4 pl-5 list-disc'>
-                    {children}
-                </ul> */}
             </Link>
         </div>
     )

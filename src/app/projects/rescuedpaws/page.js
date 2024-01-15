@@ -22,20 +22,21 @@ export default function RescuedPaws() {
       <Hero 
         title='Saving lives through transformative adoption'
         description='With a scarcity of dedicated social platforms for canine adoption, RescuedPaws aims to provide a specialized space where rescue dogs can connect with potential forever homes. By leveraging technology, we seek to streamline the adoption process, increase awareness about shelter dogs, and significantly contribute to reducing the euthanization rates.'
+        note='case study goal: to get as many readers to adopt'
       >
         <Glance>
           <div>
             <h2>Contribution</h2>
-            <p>UX Design</p>
-            <p>UI Designer</p>
+            <p>UX Strategy</p>
+            <p>Mobile UI design</p>
           </div>
           <div>
             <h2>Tools</h2>
             <p>Figma</p>
           </div>
           <div>
-            <h2>Role</h2>
-            <p>UX/UI Designer</p>
+            <h2>Type</h2>
+            <p>Personal Project</p>
           </div>
         </Glance>
 
@@ -44,7 +45,7 @@ export default function RescuedPaws() {
       {/* Content */}
       <ContentLayout>
 
-          <Content title='Background'>
+          <Content title='Overview'>
             In South Africa alone, around 1 million dogs and cats face euthanization yearly due to overpopulation and inadequate nutrition. By focusing on dog adoptions, the app seeks to make a positive impact by increasing awareness, accessibility, and successful placements for these deserving animals.
           </Content>
 
@@ -52,21 +53,8 @@ export default function RescuedPaws() {
             src='../../images/projects/rescuedpaws/rescuedpaws-one.png'
           ></Image>
 
-          <Content title='Problem'>
+          <Content title='Challenges'>
             <p>Limited dedicated platforms for dog adoptions is intensified by the fact that shelters, often non-profits reliant on donations, lack a robust digital presence and struggle to build trust online. Without dedicated spaces, shelters face difficulty showcasing available dogs and connecting with potential adopters. This hampers visibility and accessibility for these deserving animals, impacting their chances of finding forever homes. The challenge extends to financial constraints, as a weak digital presence can impede shelters ability to attract donations. Addressing this involves creating a trusted digital platform that amplifies shelter efforts and facilitates meaningful connections between adopters and rescue dogs.</p>
-          </Content>
-
-          <Content
-            title='Process'>
-              <p><strong>research and discovery</strong> to gather insights into the unique challenges and opportunities within the dog adoption landscape. This foundational step involves understanding current adoption practices, identifying pain points for adopters and rescue organizations, and researching technological trends in the animal welfare sector.</p>
-
-              <p className='pt-5'>This research sets the stage for the subsequent creation of detailed <strong>user personas</strong>, ensuring that the app is informed by a comprehensive understanding of the diverse needs and preferences of its target audience.</p>
-              
-              <p className='pt-5'><strong>Scamps, or rough sketches,</strong> are then developed to visualize the apps layout and key features, facilitating brainstorming and early conceptualization. Low-fidelity wireframing refines these ideas into a skeletal structure, focusing on user interface essentials and ensuring a clear, intuitive design.</p>
-              
-              <p className='pt-5'>The <strong>user journey sitemap</strong> is crafted to map out the navigation flow, ensuring a seamless and logical experience for users interacting with the app. Finally, high-fidelity wireframes bring the envisioned design to life, incorporating visual elements and refining the user interface for a polished and engaging user experience.</p>
-              
-              <p className='pt-5'>Each step aligns with the apps mission, emphasizing <strong>user-centric design</strong> to simplify dog adoptions, raise awareness, and create a supportive community for rescue animals.</p>
           </Content>
 
           <Content title='Solution'>
@@ -75,7 +63,7 @@ export default function RescuedPaws() {
             <li><strong>Facilitates adoptions:</strong> a user-friendly interface that simplifies the adoption process, allowing potential adopters to connect with rescue dogs easily.</li>
             <li><strong>Raise awareness:</strong> Increase awareness about the overpopulation problem in shelters, the euthanization rates, and the specific nutritional needs of rescue dogs.</li>
             <li><strong>Educate on nutrition:</strong> Provide information and resources about proper nutrition for rescue dogs, promoting their overall well-being.</li>
-            <li><strong>Unique app features:</strong> Full profile of dog, video calling, donations, quick adoption</li>
+            <li><strong>Unique app features:</strong> Full profile of dog, video calling, donations, direct messaging(with the dog of course), saved profile feature, galleries for imagery and video, ability to easily contact the shelter to adopt and interactive posts.</li>
           </ul>
           </Content>
         
@@ -90,8 +78,8 @@ export default function RescuedPaws() {
 
         {/* Next and Back Navigation */}
         <Nav
-        prevurl='/'
-        nexturl='#'
+        prevurl='/projects/redesign'
+        nexturl='/projects/theplug'
         >
         </Nav>
 

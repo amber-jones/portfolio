@@ -14,21 +14,25 @@ export default function ThePlug() {
     <div>
       {/* Hero Intro */}
       <Hero 
-        title='The Plug'
-        description='Checmed is a leading online platform that offers personalised, expert, virtual psychiatric consultations to provide accessible mental healthcare and resources to patients.  A leading online platform that offers personalised, expert, virtual psychiatric consultations to provide accessible mental healthcare and resources to patients.'
+        title='A collaborative sneaker community'
+        description='The Plug caters to a discerning sneaker-conscious consumer base, presenting a curated selection of international brands. Our offerings extend to a diverse array of best-level limited editions and exclusives.'
+        note='remember to link project live site in this case study'
       >
         <Glance>
           <div>
             <h2>Contribution</h2>
-            <p>Wireframing</p>
+            <p>UX Strategy</p>
+            <p>UI design</p>
+            <p>Wordpress development</p>
           </div>
           <div>
             <h2>Tools</h2>
             <p>Figma</p>
+            <p>WP Elementor & WooCommerce</p>
           </div>
           <div>
-            <h2>Role</h2>
-            <p>UX/UI Designer</p>
+            <h2>Type</h2>
+            <p>Personal Project</p>
           </div>
         </Glance>
 
@@ -39,42 +43,39 @@ export default function ThePlug() {
 
           <Content
             title='Overview'
-            content='CONTENT A leading online platform that offers personalised, expert, virtual psychiatric consultations to provide accessible mental healthcare and resources to patients.  A leading online platform that offers personalised, expert, virtual psychiatric consultations to provide accessible mental healthcare and resources to patients.'
           >
+            <p>Through a seamless blend of in-store and online experiences, The Plug aims to provide enthusiasts with unparalleled access to the pinnacle of sneaker culture, reflecting a deep understanding of sneaker heritage, an alignment with current trends, and a commitment to brand innovation through technology.</p>
           </Content>
 
           <Image
             src='../../images/projects/theplug/theplug-home.png'
-            caption='test'
+            caption='Engaging homepage with optimal customer journey'
           ></Image>
 
           <Content
             title='Challenges'
-            content='Challenges A leading online platform that offers personalised, expert, virtual psychiatric consultations to provide accessible mental healthcare and resources to patients.  A leading online platform that offers personalised, expert, virtual psychiatric consultations to provide accessible mental healthcare and resources to patients.'
           >
+            <p>Creating a website for a sneaker store involves addressing challenges such as managing a diverse product catalog, ensuring a seamless user experience, implementing efficient inventory management, prioritising mobile responsiveness, securing online payments, maintaining consistent branding and navigating a competitive market. Successfully overcoming these challenges requires a strategic approach, combining effective website design, technological solutions, and responsive customer service to create a positive and distinctive online shopping experience for consumers.</p>
           </Content>
 
           <Content
-            title='Process'
-            content='CONTENT A leading online platform that offers personalised, expert, virtual psychiatric consultations to provide accessible mental healthcare and resources to patients.  A leading online platform that offers personalised, expert, virtual psychiatric consultations to provide accessible mental healthcare and resources to patients.'
+            title='Solution'
           >
+            <p>Craft a website with an upscale and sophisticated ambiance, embodying a blend of minimalistic trends. Utilize a palette of neutral tones complemented by strategic pops of color for a refined visual experience. Opt for the friendly and modern font to enhance readability and approachability, aligning with a minimalistic yet trendy vibe. Integrate a comprehensive UX strategy, prioritizing easy navigation through thoughtfully designed dropdown menus, intuitive filters, and strategically placed buttons. This user-centric approach ensures not only an aesthetically pleasing design but also a seamless and enjoyable browsing experience, catering to the discerning tastes of an upper-market audience. 
+            </p>
+            <a className='font-bold pt-10 hover:opacity-50' href='https://amberjones.co.za/theplug/'target="_blank" rel="noopener noreferrer">Visit live site &#8599;</a>
           </Content>
 
           <Image
             src='../../images/projects/theplug/theplug-site.png'
-            caption='test'
+            caption='Wordpress E-Commerce Sneaker Store'
           ></Image>
 
-          <Content
-            title='Learnings'
-            content='CONTENT A leading online platform that offers personalised, expert, virtual psychiatric consultations to provide accessible mental healthcare and resources to patients.  A leading online platform that offers personalised, expert, virtual psychiatric consultations to provide accessible mental healthcare and resources to patients.'
-          >
-          </Content>
 
         {/* Next and Back Navigation */}
         <Nav
-        prevurl='/'
-        nexturl='#'
+        prevurl='/projects/rescuedpaws'
+        nexturl='/projects/booking'
         >
         </Nav>
 

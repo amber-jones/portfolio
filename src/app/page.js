@@ -70,13 +70,13 @@ export default function Home() {
               <img
                 src='../../icons/plus.svg'
                 className='absolute -z-50 md:left-32 md:-top-10 h-auto'
-                alt='Profile image'
+                alt='Decorative icon'
               />
             </div>
               <img
                 src='../../images/home/underline.png'
                 className='w-1/2 mx-auto pt-10 h-auto'
-                alt='Profile image'
+                alt='Decorative underline'
               />
           </div>
 
@@ -89,15 +89,13 @@ export default function Home() {
               {/* Card */}
               <Card 
                 href='/projects/booking'
-                url='../../images/home/booking-featured-image.png'
-                // title='Mobile App Design' 
-                description='ChecMed offers personalised, expert psychiatric consultations to provide accessible mental healthcare, fostering well-being and a better quality of life. Connecting patients to doctors virtually.'>
+                url='../../images/home/booking-featured-image.png'>
               </Card>
 
               {/* Project Description */}
               <ProjectDescriptionRight
                 number='01'
-                title='Book a tour!'
+                title='Book a tour'
                 description='Enhancing the booking experience for an adventure tour company through UX/UI enhancements.'
                 href='/projects/booking'
                 >
@@ -112,8 +110,8 @@ export default function Home() {
               {/* Project Description */}
               <ProjectDescriptionLeft
                 number='02'
-                title='Website Redesign'
-                description='UX/UI Design: Refresh of the UX and updated UI from exisiting brand CI. UX wireframing and UI design was implemented.'
+                title='A luxury stay'
+                description='UX strategy implemented to improve the user journey through product clarification and updated UI.'
                 href='/projects/redesign'
                 >
               </ProjectDescriptionLeft>
@@ -121,9 +119,7 @@ export default function Home() {
               {/* Card */}
               <Card 
                 href='/projects/redesign'
-                url='../../images/home/ffs-featured-img.png'
-                title='Website Re-Design' 
-                description='This client is a property group that consists of 2 luxury villas. Wellness retreats are offered and luxury concierge.'>
+                url='../../images/home/ffs-featured-img.png'>
               </Card>
 
             </div>
@@ -134,16 +130,14 @@ export default function Home() {
             {/* Card */}
             <Card 
               href='/projects/rescuedpaws'
-              url='../../images/home/rescuedpaws-featured-img.png'
-              // title='Mobile App Design' 
-              description='RescuedPaws mission is for rescue dogs all over the world to find their forever companions and live in a safe and loving home. They deserve security and happiness just like you and me.'>
+              url='../../images/home/rescuedpaws-featured-img.png'>
             </Card>
 
             {/* Project Description */}
             <ProjectDescriptionRight
               number='03'
-              title='Social App Design'
-              description='Case Study: A mobile application designed to address the critical issue of overpopulation and euthanization in animal shelters, focusing specifically on dog adoptions.'
+              title='My forever home'
+              description='Personal project: A mobile app designed to address the critical issue of overpopulation and euthanization in animal shelters, focusing specifically on dog adoptions.'
               href='/projects/rescuedpaws'
               >
             </ProjectDescriptionRight>
@@ -157,8 +151,8 @@ export default function Home() {
               {/* Project Description */}
               <ProjectDescriptionLeft
                 number='04'
-                title='E-commerce Site'
-                description='The Plug is an e-commerce website that is targeted to a higher earning target market - The Plug not only sells sneakers but allows for collectables and creates a community'
+                title='Choose Creativity'
+                description='Personal project: Designed and developed an e-commerce site for unique sneakers. For those sneaker addicts looking to add to their one-of-a-kind collection.'
                 href='/projects/theplug'
                 >
               </ProjectDescriptionLeft>
@@ -166,9 +160,7 @@ export default function Home() {
               {/* Card */}
               <Card 
                 href='/projects/theplug'
-                url='../../images/home/theplug-featured-img.png'
-                title='Website Re-Design' 
-                description='Lorem ipsum dolor sit amet consectetur. Iaculis nullam lorem malesuada duis tortor pellentesque dictum ipsum massa.'>
+                url='../../images/home/theplug-featured-img.png'>
               </Card>
 
              </div>
