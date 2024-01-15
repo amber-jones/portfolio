@@ -30,14 +30,14 @@ export default function About() {
     <div className='relative'>
         <Hero description='note: find a more engaging about page title'>
           Get to <br></br> know me
-            <Image
+            <img
                 src='../../../icons/plus.svg'
-                className='absolute -left-10 -top-10 md:-left-20 md:top-0'
+                className='absolute -left-10 -top-10 md:-left-20 md:top-0 h-auto'
                 alt='Plus icon'
               />
-              <Image
+              <img
                 src='../../../images/about/squiggle.png'
-                className='absolute left-0 -bottom-10 md:-bottom-16 lg:-bottom-24 xl:-bottom-32 w-2/3'
+                className='absolute left-0 -bottom-10 md:-bottom-16 lg:-bottom-24 xl:-bottom-32 w-2/3 h-auto'
                 alt='Decorative underline'
               />
           
@@ -65,7 +65,7 @@ export default function About() {
         <ContentLayout>
             <ContentLeft
               tagline='#challengeaccepted'
-              title='Drive drive drive'
+              title='Crafting solutions'
               content='The challenge of creating seamless user experiences and translating complex ideas into visually compelling interfaces sparked my passion. Combining scientific grounding with creative exploration has expanded my skills and deepened my commitment to crafting innovative, user-focused digital solutions.'>
             </ContentLeft>
 
@@ -91,8 +91,8 @@ export default function About() {
 
           <ContentRight
             tagline='test tagline'
-            title='Heading'
-            content='Test sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'>
+            title='Work with me'
+            content='I really enjoy collaborative work and have been working alongside amazing people in my industry. I am always up for a collaborative project so if you are keen to learn and create together, please let me know!'>
           </ContentRight>
         </ContentLayout>
         {/* Section three */}
@@ -102,7 +102,7 @@ export default function About() {
           <ContentLeft
             tagline='Added Extras'
             title='Hobbies?'
-            content='I am probably out for a run or beating up the boxing bag at gym. A few of my favourite words: friends, family, sushi, music, hockey, dogs, components. A few words I dislike: traffic, coriander'>
+            content='When not behind the screen, I am either outside for a run or beating up the boxing bag at gym. A few of my favourite words: friends, family, sushi, music, hockey, dogs, components. A few words I dislike: traffic, coriander..'>
           </ContentLeft>
     
           <div className='mt-5 md:mt-0 mx-8 lg:mx-20 xl:mx-40 card-bg p-5 xl:p-8 xl:w-2/3'>
@@ -127,7 +127,7 @@ export default function About() {
           </div>
 
           <div className='flex flex-col gap-5 py-5 md:py-16 mx-10 md:mx-auto max-w-xl pt-20 lg:pt-10 xl:pt-36'>
-            <p className='text-cream'>I currently work at Flux Full Cicle, a leading luxury travel digital industry that creates the best digital presence for brands. I am the UX/UI designer and developer that creates user experiences for new website builds and features. I do research, testing and UX improvements. I also take on design and dev freelance projects.</p>
+            <p className='text-cream'>I currently work at Flux Full Cicle, a leading luxury travel digital industry that creates a digital presence for brands. As the UX/UI designer and developer, my duty is to create optimal user experiences for new website builds and features. I do research, testing, data analysis, front end dev and everything UX.</p>
           </div>
 
           <div className='lg:mt-10 px-5 md:px-16'>
@@ -189,11 +189,11 @@ export default function About() {
           </Swiper>
           </div>
           <div className='flex flex-row pt-10 justify-center place-items-center'>
-            <Image
+            <img
                 src='../../../icons/up-arrow.svg'
                 className='w-1/5'
-                alt='Profile image'
-              />
+                alt='decorative element'
+            />
             <p className='subheading w-1/2 md:w-1/4 text-[20px] leading-[20px] md:text-[28px]'>remember that life is all about doing the things you enjoy most!</p>
           </div>
         </section>
