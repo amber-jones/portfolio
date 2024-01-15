@@ -23,7 +23,7 @@ export default function Footer({}){
                 <div className='mt-6 px-10 md:px-20 flex flex-col md:flex-row justify-between items-center md:items-end'>
                     <div className='order-2 md:order-1 text-sm pt-20 text-cream'>
                         <p>2024 Amber Jones. All rights reserved.</p>
-                        <p>Designed and developed on <strong>Next.js</strong> with too much coffee,love and components :)</p>
+                        <p>Designed and developed by me - on <strong>Next.js</strong> with too much coffee,love and components :)</p>
                     </div>
                     <div className='md:col-span-1 flex flex-col md:flex-row gap-0 md:gap-6 order-1 md:order-2'>
                         <LinkItem href='/#work'>My Work</LinkItem>
