@@ -15,7 +15,7 @@ export default function Footer({}){
                 <Marquee></Marquee>
                 <div className='pt-10 lg:pt-40 px-5 sm:px-20'>
                     <div className='relative flex flex-col md:flex-row text-center md:text-left items-center md:items-end gap-5'>
-                        <HeadingLarge>Let's Chat</HeadingLarge>
+                        <HeadingLarge>Lets Chat</HeadingLarge>
                         <h1 className='md:ml-0 lg:-mt-20 text-[16px] leading-[14px] md:text-[22px] lg:text-[28px] md:leading-[24px] w-1/3 sm:w-1/5 text-black absolute -bottom-10 right-40 md:right-20 lg:right-72 2xl:left-96 p-2 md:p-5 sticky-note-right'>& create cool things together!</h1>
                     </div>
                 </div>

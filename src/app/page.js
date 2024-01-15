@@ -41,8 +41,8 @@ export default function Home() {
                 alt='Profile image'
               />
               <div className='z-20 px-5 sm:px-32 md:px-5 lg:px-10'>
-                <p className='pb-6'>That's right, from lab to labtop. I still enjoy crafting solutions, just digital ones that matter - creative, meaningful solutions that are intuitive, user-friendly, and solve real life problems.</p>
-                  <LinkItem href="/about">So what's my story?</LinkItem>
+                <p className='pb-6'>Thats right, from lab to labtop. I still enjoy crafting solutions, just digital ones that matter - creative, meaningful solutions that are intuitive, user-friendly, and solve real life problems.</p>
+                  <LinkItem href="/about">So what is my story?</LinkItem>
               </div>
               <img
                 src='../../images/circles.png'

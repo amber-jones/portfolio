@@ -53,7 +53,7 @@ export default function RescuedPaws() {
           ></Image>
 
           <Content title='Problem'>
-            <p>Limited dedicated platforms for dog adoptions is intensified by the fact that shelters, often non-profits reliant on donations, lack a robust digital presence and struggle to build trust online. Without dedicated spaces, shelters face difficulty showcasing available dogs and connecting with potential adopters. This hampers visibility and accessibility for these deserving animals, impacting their chances of finding forever homes. The challenge extends to financial constraints, as a weak digital presence can impede shelters' ability to attract donations. Addressing this involves creating a trusted digital platform that amplifies shelter efforts and facilitates meaningful connections between adopters and rescue dogs.</p>
+            <p>Limited dedicated platforms for dog adoptions is intensified by the fact that shelters, often non-profits reliant on donations, lack a robust digital presence and struggle to build trust online. Without dedicated spaces, shelters face difficulty showcasing available dogs and connecting with potential adopters. This hampers visibility and accessibility for these deserving animals, impacting their chances of finding forever homes. The challenge extends to financial constraints, as a weak digital presence can impede shelters ability to attract donations. Addressing this involves creating a trusted digital platform that amplifies shelter efforts and facilitates meaningful connections between adopters and rescue dogs.</p>
           </Content>
 
           <Content
@@ -62,11 +62,11 @@ export default function RescuedPaws() {
 
               <p className='pt-5'>This research sets the stage for the subsequent creation of detailed <strong>user personas</strong>, ensuring that the app is informed by a comprehensive understanding of the diverse needs and preferences of its target audience.</p>
               
-              <p className='pt-5'><strong>Scamps, or rough sketches,</strong> are then developed to visualize the app's layout and key features, facilitating brainstorming and early conceptualization. Low-fidelity wireframing refines these ideas into a skeletal structure, focusing on user interface essentials and ensuring a clear, intuitive design.</p>
+              <p className='pt-5'><strong>Scamps, or rough sketches,</strong> are then developed to visualize the apps layout and key features, facilitating brainstorming and early conceptualization. Low-fidelity wireframing refines these ideas into a skeletal structure, focusing on user interface essentials and ensuring a clear, intuitive design.</p>
               
               <p className='pt-5'>The <strong>user journey sitemap</strong> is crafted to map out the navigation flow, ensuring a seamless and logical experience for users interacting with the app. Finally, high-fidelity wireframes bring the envisioned design to life, incorporating visual elements and refining the user interface for a polished and engaging user experience.</p>
               
-              <p className='pt-5'>Each step aligns with the app's mission, emphasizing <strong>user-centric design</strong> to simplify dog adoptions, raise awareness, and create a supportive community for rescue animals.</p>
+              <p className='pt-5'>Each step aligns with the apps mission, emphasizing <strong>user-centric design</strong> to simplify dog adoptions, raise awareness, and create a supportive community for rescue animals.</p>
           </Content>
 
           <Content title='Solution'>

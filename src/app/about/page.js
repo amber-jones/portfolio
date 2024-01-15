@@ -194,7 +194,7 @@ export default function About() {
                 className='w-1/5'
                 alt='Profile image'
               />
-            <p className='subheading w-1/2 md:w-1/4 text-[20px] leading-[20px] md:text-[28px]'>don't forget life is all about doing the things you enjoy most!</p>
+            <p className='subheading w-1/2 md:w-1/4 text-[20px] leading-[20px] md:text-[28px]'>remember that life is all about doing the things you enjoy most!</p>
           </div>
         </section>
     </div>
