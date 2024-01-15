@@ -26,7 +26,7 @@ const lato = Lato({
 
 export const metadata = {
   title: 'Amber Jones',
-  description: 'Product Designer & Developer',
+  description: 'Creative Developer',
 }
 
 export default function RootLayout({ children }) {
