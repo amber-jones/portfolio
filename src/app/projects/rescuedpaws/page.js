@@ -72,7 +72,7 @@ export default function RescuedPaws() {
               caption='Image 5: High fidelity wireframes'
           ></Image>
 
-          <Content title='Learnings'>
+          <Content title='Takeaways'>
             <p>This dog adoption app is a transformative solution that <strong>leverages technology</strong> to address a pressing community need. In the face of staggering euthanization rates and overpopulation challenges, the app harnesses the power of <strong>digital connectivity</strong> to streamline and revolutionize the adoption process. By centralizing information and utilizing user-friendly interfaces, potential adopters can <strong>seamlessly connect</strong> with rescue dogs. Moreover, the app employs innovative features to raise awareness, educate on proper nutrition, and build a supportive community. Through the strategic use of technology, this app not only saves lives but also exemplifies how <strong>digital solutions can be a catalyst for positive change</strong> in the realm of animal welfare, paving the way for a more compassionate and connected community.</p>
           </Content>
 
