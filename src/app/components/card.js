@@ -9,7 +9,7 @@ export default function Card({href, url}){
             <Link href={href}>
                 <img 
                     src={url}
-                    className='h-auto object-cover rounded-2xl'>
+                    className='h-auto md:h-full object-cover rounded-2xl'>
                 </img>
             </Link>
         </div>
