@@ -69,7 +69,7 @@ export default function Home() {
               <p className='pb-5 md:pb-16 sticky-note absolute top-10 right-10 md:right-10 lg:right-32 p-2 md:p-5 text-[16px] leading-[14px] md:text-[22px] lg:text-[28px] md:leading-[24px] w-1/3 sm:w-1/5'>scroll through some of my work</p>
               <img
                 src='../../icons/plus.svg'
-                className='absolute -z-50 md:left-32 md:-top-10 h-auto'
+                className='absolute -z-50 left-2 -top-16 md:left-32 md:-top-10 h-auto'
                 alt='Decorative icon'
               />
             </div>
