@@ -127,7 +127,7 @@ export default function About() {
           </div>
 
           <div className='flex flex-col gap-5 py-5 md:py-16 mx-10 md:mx-auto max-w-xl pt-20 lg:pt-10 xl:pt-36'>
-            <p className='text-cream'>I am currently working for NML in Cape Town, a software dev company that provides custom services in the financial services space. As a product designer and front end developer, I design and develop solutions for high end clients, ensuring the user experience is seamless.</p>
+            <p className='text-cream'>I am currently working for NML in Cape Town, a software dev company that provides custom services in the financial services space. As a product designer and front end developer, I design and develop solutions for high end clients, ensuring the user experience is seamless. I am also on a few cool freelancing projects and working with some great people. Other than work, I am still running a lot, keeping active and making sure I have a balanced 2025!</p>
           </div>
 
           <div className='lg:mt-10 px-5 md:px-16'>
