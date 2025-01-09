@@ -28,7 +28,7 @@ import swipernine from "../../../public/images/about/swiper-nine.png";
 export default function About() {
   return (
     <div className='relative'>
-        <Hero description='note: find a more engaging about page title'>
+        <Hero description='note: be unique and tell your own story'>
           Get to <br></br> know me
             <img
                 src='../../../icons/plus.svg'
@@ -127,7 +127,7 @@ export default function About() {
           </div>
 
           <div className='flex flex-col gap-5 py-5 md:py-16 mx-10 md:mx-auto max-w-xl pt-20 lg:pt-10 xl:pt-36'>
-            <p className='text-cream'>I am currently part of the awesome team at Flux Full Circle, a top-tier player in the luxury travel digital industry. As the front end UX/UI developer, my mission is all about creating seamless user experiences for new website builds and cool features. I dive into research, run tests, crunch numbers for data analysis, and bring it all to life through hands-on front-end development and collaborative efforts with our marketing team. Yes, I am your go-to person for everything UX!</p>
+            <p className='text-cream'>I am currently working for NML in Cape Town, a software dev company that provides custom services in the financial services space. As a product designer and front end developer, I design and develop solutions for high end clients, ensuring the user experience is seamless.</p>
           </div>
 
           <div className='lg:mt-10 px-5 md:px-16'>

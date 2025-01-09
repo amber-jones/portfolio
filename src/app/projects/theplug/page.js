@@ -16,7 +16,7 @@ export default function ThePlug() {
       <Hero 
         title='A collaborative sneaker community'
         description='The Plug caters to a discerning sneaker-conscious consumer base, presenting a curated selection of international brands. Our offerings extend to a diverse array of best-level limited editions and exclusives.'
-        note='remember to link project live site in this case study'
+        note='Note: remember to think about user journey'
       >
         <Glance>
           <div>
@@ -63,7 +63,6 @@ export default function ThePlug() {
           >
             <p>Craft a website with an upscale and sophisticated ambiance, embodying a blend of minimalistic trends. Utilize a palette of neutral tones complemented by strategic pops of color for a refined visual experience. Opt for the friendly and modern font to enhance readability and approachability, aligning with a minimalistic yet trendy vibe. Integrate a comprehensive UX strategy, prioritizing easy navigation through thoughtfully designed dropdown menus, intuitive filters, and strategically placed buttons. This user-centric approach ensures not only an aesthetically pleasing design but also a seamless and enjoyable browsing experience, catering to the discerning tastes of an upper-market audience. 
             </p>
-            <a className='font-bold pt-10 hover:opacity-50' href='https://amberjones.co.za/theplug/'target="_blank" rel="noopener noreferrer">Visit live site &#8599;</a>
           </Content>
 
           <Image
